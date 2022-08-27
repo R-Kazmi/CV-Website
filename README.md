@@ -1,3 +1,1 @@
-A kind of portfolio. More like CV
-
-r-kazmi.github.io
+A CV website made with Html, CSS and JavaScript
